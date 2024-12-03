@@ -1,0 +1,99 @@
+
+
+/*About*/
+.about{
+    margin-top: 100px;
+}
+
+/*Counter Section*/
+  #counter-section {
+    background: url('https://your-background-image-url') no-repeat center center;
+    background-size: cover;
+  }
+  .counter-box {
+    color: white;
+  }
+  .counter-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .counter-label {
+    font-size: 1.2rem;
+    margin-top: 5px;
+  }
+
+  /*Courses*/
+
+  #popular-courses .card {
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  #popular-courses .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  #popular-courses .btn {
+    font-weight: bold;
+  }
+
+/*Testimonials*/
+  #testimonials {
+    background: #f8f9fa;
+  }
+
+  .testimonial img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+
+  .testimonial h5 {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .testimonial p {
+    font-size: 1rem;
+    font-style: italic;
+    color: #6c757d;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #000;
+    border-radius: 50%;
+  }
+
+/*Footer*/
+  footer {
+    background: #343a40; /* Dark background */
+    color: #f8f9fa; /* Light text color */
+  }
+
+  footer h5 {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+
+  footer a {
+    transition: color 0.3s ease;
+  }
+
+  footer a:hover {
+    color: #00bcd4; /* Light blue hover color */
+  }
+
+  .social-icons a i {
+    font-size: 20px;
+  }
+
+  footer .list-unstyled li {
+    margin-bottom: 8px;
+  }
+
+
+
