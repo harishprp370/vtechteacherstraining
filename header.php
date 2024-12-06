@@ -1,13 +1,12 @@
 <style>
     nav{
-        background-color: #42f593;
         padding: 1em;
     }
     .navbar-nav .nav-item{
         margin: 0 60px;
         font-family: 'Times New Roman', Times, serif;
         font-size: 1rem;
-        -webkit-text-fill-color: beige;
+        -webkit-text-fill-color: black;
     }
 
     .nav-item :hover{
