@@ -1,13 +1,25 @@
+/*Home*/
+/* CSS for Carousel */
+.cars {
+  height: 500px; /* Fix the height for all carousel items */
+  overflow: hidden; /* Ensure no overflow from large images */
+}
+
+.carousel-image {
+  height: 100%; /* Ensure images fill the height */
+  object-fit: cover; /* Crop images to fit the container */
+  object-position: center; /* Center the cropped area */
+}
 
 
 /*About*/
 .about{
-    margin-top: 100px;
+    margin-top: 1.8rem;
 }
 
 /*Counter Section*/
   #counter-section {
-    background: url('https://your-background-image-url') no-repeat center center;
+    
     background-size: cover;
   }
   .counter-box {
@@ -44,8 +56,8 @@
   }
 
   .testimonial img {
-    width: 80px;
-    height: 80px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     margin: 0 auto;
   }

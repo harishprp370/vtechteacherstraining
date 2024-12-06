@@ -5,7 +5,7 @@
     <div class="row">
       <!-- Name Section -->
       <div class="col-md-4 col-lg-4 col-xl-3 mx-auto mb-4">
-        <h5 class="text-uppercase fw-bold">Your Name</h5>
+        <h5 class="text-uppercase fw-bold">V TECH TRAINING</h5>
         <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #f8f9fa; height: 2px">
         <p>
           This website is designed and developed with a focus on user-friendly experiences and educational excellence. 

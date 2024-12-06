@@ -1,0 +1,71 @@
+/* About Institution Section Styles */
+.about-institution {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.about-institution h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase;
+}
+
+.about-institution p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.about-institution .breadcrumb {
+    font-size: 14px;
+    color: #6c757d;
+}
+
+.about-institution .breadcrumb a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.about-institution .breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.about-institution .quote-section {
+    background-color: #f8f9fa;
+    border-left: 5px solid #007bff;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-style: italic;
+    color: #555;
+}
+
+.about-institution .quote-section p {
+    font-size: 18px;
+    margin: 0;
+}
+
+.about-institution .row img {
+    max-width: 200px;
+    margin-bottom: 15px;
+}
+
+.about-institution h5 {
+    font-size: 16px;
+    color: #444;
+    text-transform: uppercase;
+}
+
+.about-institution .row {
+    margin-top: 20px;
+}
+
+.about-institution .col-md-6 p {
+    font-size: 15px;
+    color: #555;
+    text-align: justify;
+    line-height: 1.8;
+}

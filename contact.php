@@ -7,43 +7,42 @@
     <title>Contact Us</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
-    <style>
-        .form-container {
-            max-width: 600px;
-            margin: auto;
-            padding: 20px;
-            border: 1px solid #ccc;
-            border-radius: 10px;
-            background-color: #f9f9f9;
-        }
-    </style>
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 </head>
 <body>
-    <div class="container my-5">
-        <div class="form-container">
-            <h3 class="text-center mb-4">Contact Us</h3>
-            <form id="contactForm" action="submit_contact.php" method="POST">
-                <div class="mb-3">
-                    <label for="name" class="form-label">Name</label>
-                    <input type="text" class="form-control" id="name" name="name" required>
+<div class="contact-section">
+    <div class="container">
+        <div class="row">
+            <!-- Left Section -->
+            <div class="col-md-6 contact-info">
+                <h2>You Can Contact With Us</h2>
+                <p>V TECH TEACHERS TRAINING</p>
+                <div class="contact-details">
+                    <p><i class="fas fa-map-marker-alt"></i> kakal Kairuchi hotel Konankunte</p>
+                    <p><i class="fas fa-phone"></i> Phone: 9739561697,6360389007</p>
+                    <p><i class="fas fa-globe"></i> Web: <a href="http://www.vtechteachertraining.org" target="_blank"></a>www.vtechteachertraining.org</p>
                 </div>
-                <div class="mb-3">
-                    <label for="email" class="form-label">Email</label>
-                    <input type="email" class="form-control" id="email" name="email" required>
-                </div>
-                <div class="mb-3">
-                    <label for="phone" class="form-label">Phone</label>
-                    <input type="tel" class="form-control" id="phone" name="phone" pattern="[0-9]{10}" required>
-                    <div class="form-text">Enter a valid 10-digit phone number.</div>
-                </div>
-                <div class="mb-3">
-                    <label for="message" class="form-label">Message</label>
-                    <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
-                </div>
-                <button type="submit" class="btn btn-primary w-100">Submit</button>
-            </form>
+                <h4>Also Can Find Us</h4>
+                <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
+            </div>
+
+            <!-- Right Section -->
+            <div class="col-md-6 contact-form">
+                <h2>SEND YOUR MESSAGE</h2>
+                <form>
+                    <input type="text" placeholder="Enter Name" class="form-control mb-3" required>
+                    <input type="text" placeholder="Enter Phone" class="form-control mb-3" required>
+                    <input type="email" placeholder="Enter Email" class="form-control mb-3" required>
+                    <textarea placeholder="Enter Message" class="form-control mb-3" rows="5" required></textarea>
+                    <button type="submit" class="btn btn-primary">SEND EMAIL</button>
+                </form>
+            </div>
         </div>
     </div>
+</div>
+
 
     <script>
         // JavaScript validation (additional layer)
