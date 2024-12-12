@@ -6,7 +6,7 @@
         margin: 0 60px;
         font-family: 'Times New Roman', Times, serif;
         font-size: 1rem;
-        -webkit-text-fill-color: black;
+        color: #42f593;
     }
 
     .nav-item :hover{
@@ -17,10 +17,10 @@
         -webkit-text-fill-color: black;
     }
 </style>
-<div class="bg-primary py-3 border-bottom">
+<div class="py-3 border-bottom" style="background-color: #bf282f;">
     <div class="container-fluid d-flex align-items-center justify-content-space-around">
         <div class="logo">
-            <img src="/src/img/BITS Logo.png" alt="College Logo" class="img-fluid" style="max-width: 100px;">
+            <img src="src/images/logo.jpg" alt="College Logo" class="img-fluid" style="max-width: 100px;">
         </div>
         <div class="col-md text-center text-white">
             <h1 class="title" style="font-family: Arial-bold;">V TECH TEACHERS TRAINING CENTER</h1>
@@ -30,7 +30,7 @@
 </div>
 
 <!-- Third Bar (Navigation Bar) -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white border-top border-danger">
+<nav class="navbar navbar-expand-lg navbar-light border-top border-danger"  style="background-color: #e8af75;">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

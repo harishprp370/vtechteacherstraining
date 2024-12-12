@@ -5,7 +5,7 @@
     <div class="row">
       <!-- Name Section -->
       <div class="col-md-4 col-lg-4 col-xl-3 mx-auto mb-4">
-        <h5 class="text-uppercase fw-bold">V TECH TRAINING</h5>
+        <h5 class="text-uppercase fw-bold">V TECH TEACHERS TRAINING CENTER</h5>
         <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #f8f9fa; height: 2px">
         <p>
           This website is designed and developed with a focus on user-friendly experiences and educational excellence. 
@@ -18,7 +18,8 @@
         <h5 class="text-uppercase fw-bold">Get in Touch</h5>
         <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #f8f9fa; height: 2px">
         <p><i class="fas fa-envelope me-3"></i> info@yourdomain.com</p>
-        <p><i class="fas fa-phone me-3"></i> +91 1234567890</p>
+        <p><i class="fas fa-phone me-3"></i> +91 9739561697</p>
+        <p><i class="fas fa-whatsapp"></i>+91 9739561299</P>
         <p><i class="fas fa-map-marker-alt me-3"></i> Bangalore, Karnataka, India</p>
       </div>
 
@@ -48,7 +49,7 @@
     </div>
   </div>
   <div class="text-center py-3">
-    <p class="mb-0">© 2024 Your Name. All rights reserved.</p>
+    <p class="mb-0">© 2024 VTECH TEACHERS TRAINING CENTER. All rights reserved.</p>
     <p class="mb-0">Designed and Developed by Colab Pvt LTD.</p>
   </div>
 </footer>
