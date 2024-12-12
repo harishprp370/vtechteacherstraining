@@ -20,8 +20,8 @@
                 <h2>You Can Contact With Us</h2>
                 <p>V TECH TEACHERS TRAINING</p>
                 <div class="contact-details">
-                    <p><i class="fas fa-map-marker-alt"></i> kakal Kairuchi hotel Konankunte</p>
-                    <p><i class="fas fa-phone"></i> Phone: 9739561697,6360389007</p>
+                    <p><i class="fas fa-map-marker-alt"></i> Bengaluru, Karnataka, India</p>
+                    <p><i class="fas fa-phone"></i> Phone: 9739561697, 9739561299</p>
                     <p><i class="fas fa-globe"></i> Web: <a href="http://www.vtechteachertraining.org" target="_blank"></a>www.vtechteachertraining.org</p>
                 </div>
                 <h4>Also Can Find Us</h4>
